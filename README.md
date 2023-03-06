@@ -28,7 +28,7 @@ Version: 4.18
 **Android DOWNLOAD LINK: http://bit.ly/3ZsVY5N**
 
 **HOW TO USE**
-1. Delete old Growtopia.
+1. Delete old Growtopia
 2. Download & open
 3. Log In 
 
