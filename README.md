@@ -21,7 +21,7 @@ Modded By PowerKuy
 
 Version: 4.18
 
-# HOW TO USE & SHOWCASE
+# HOW TO USE & SHOWCASE.
 
 **SHOWCASE: https://www.youtube.com/watch?v=mGC1YFCy34k&t=6s**
 
